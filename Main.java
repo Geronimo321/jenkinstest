@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int count = 100;
+        int count = 50;
         System.out.print(0 +" "+ 1);
         printFib(count-1);
     }
